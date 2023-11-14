@@ -1,0 +1,11 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Health API for Satellite",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikal Johnson",
+  "license": "ISC"
+}
